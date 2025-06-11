@@ -54,7 +54,7 @@ Pastikan file berikut berada dalam satu folder:
 ├── (venv/)
 ```
 
-**Cara Menjalankan Aplikasi**
+**Cara Menjalankan Dashboard**
 
 1. Aktifkan virtual environment:
 
